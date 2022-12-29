@@ -24,7 +24,7 @@
 
 ## Evalutation metrics
 * 左右施力不平衡
-  * EMG analyze
+  * EMG Analysis
 
 * 疲勞偵測
   * Median Frequency (MDF)
