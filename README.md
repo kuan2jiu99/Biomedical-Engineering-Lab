@@ -2,7 +2,7 @@
 * Biomedical Engineering Lab 2022 Fall  
 * Group5 Final Project
 
-## Evalutaion action
+## Evalutaion actions
 * 深蹲正面 
   * balance 左右平衡
   * knee 膝蓋內夾
