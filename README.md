@@ -30,4 +30,3 @@
   * Median Frequency (MDF)
   
 ## Demo Video
-https://www.youtube.com/watch?v=EwdncYnuXHk
