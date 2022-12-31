@@ -2,7 +2,7 @@
 * Biomedical Engineering Lab 2022 Fall  
 * Group5 Final Project
 
-## Evalutaion actions
+## Evalutaion Actions
 * 深蹲正面 
   * balance 左右平衡
   * knee 膝蓋內夾
@@ -22,9 +22,12 @@
 
   * neck 過度抬頭，就是烏龜
 
-## Evalutation metrics
+## Evalutation Metrics
 * 左右施力不平衡
   * EMG Analysis
 
 * 疲勞偵測
   * Median Frequency (MDF)
+  
+## Demo Video
+https://www.youtube.com/watch?v=EwdncYnuXHk
