@@ -1,7 +1,9 @@
 # Biomedical-Engineering-Lab
 * Biomedical Engineering Lab, 2022 Fall, NTUEE
 * Group5 Final Project
-* Topic: Using CV and EMG-related information to detect the correctness of action of squat and deadlift
+
+## Topic
+* Using CV and EMG-related information to detect the correctness of action of squat and deadlift
 
 ## Evalutaion Actions
 * 深蹲正面 
